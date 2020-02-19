@@ -4,7 +4,7 @@ This application is based follow resources: <https://sunscrapers.com/ebook/how-t
 
 ## Steps required to start the application
 
-1.  It is recommended to use **Python 3.4** or higher
+1.  It is recommended to use **Python 3.4** :snake: or higher
 2.  Install the packages contained in **requirements.txt** on your vitual environment using the command installation of `pip install -r requirements.txt`
 3.  Execute the run.py file with `./manage.py makemigrations`
 4.  Execute the run.py file with `./manage.py migrate`
